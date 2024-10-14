@@ -17,8 +17,8 @@ body {
 }
 
 .profile {
-    height: 47em;
-    width: 30em;
+    height: 45em;
+    width: 27em;
     border-radius: 1em;
     padding: 3em;
     background-color: hsl(0, 0%, 8%);
@@ -26,20 +26,20 @@ body {
 }
 
 .profile .img img {
-    width: 8em;
-    height: 8em;
+    width: 6em;
+    height: 6em;
     border-radius: 50%;
     margin-bottom: 1em;
 }
 
 .profile h1 {
-    font-size: 2em;
+    font-size: 1.8em;
     margin-bottom: .5em;
 }
 
 .profile span {
     color:  hsl(75, 94%, 57%);
-    font-size: 1.2em;
+    font-size: 1em;
     font-weight: 600;
 }
 
