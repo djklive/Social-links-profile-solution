@@ -70,3 +70,20 @@ body {
     font-size: 1em;
     margin-bottom: 1em;
 }
+
+@media screen and (max-width: 375px){
+    .profile {
+        width: 85%;
+    }
+    html {
+        font-size: 60%;
+    }
+}
+@media screen and (max-width: 425px){
+    .profile {
+        width: 90%;
+    }
+    html {
+        font-size: 70%;
+    }
+}
